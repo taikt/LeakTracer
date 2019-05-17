@@ -1,0 +1,12 @@
+1. Installation
+Linux kernel x86
+
+2. Build
+make all
+make runtests
+
+3. Reference
+https://github.com/taikt/LeakTracer
+
+
+
